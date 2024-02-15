@@ -26,7 +26,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="huggingface" width="40" height="40"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapply.workable.com%2Fhuggingface%2F&psig=AOvVaw3SN4x3XRGwpPtbcjuZbo4F&ust=1708060707445000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi79Y_MrIQDFQAAAAAdAAAAABAE" alt="huggingface" width="40" height="40"/>
     </a>
     <a href="https://www.lamaresearch.org/lamaindex" target="_blank" rel="noreferrer">
         <img src="PLACEHOLDER_URL" alt="lamaIndex" width="40" height="40"/>

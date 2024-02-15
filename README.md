@@ -29,7 +29,7 @@
         <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="huggingface" width="40" height="40"/>
     </a>
     <a href="https://www.lamaresearch.org/lamaindex" target="_blank" rel="noreferrer">
-        <img src="https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt45d9c451c9a70269/6542d10b8b3f8e001b7aeead/img_blog_image_inline.png?width=1120&disable=upscale&auto=webp" alt="lamaIndex" width="40" height="40"/>
+        <img src="https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt45d9c451c9a70269/6542d10b8b3f8e001b7aeead/img_blog_image_inline.png?width=1120&disable=upscale&auto=webp" alt="lamaIndex" width="80" height="40"/>
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>

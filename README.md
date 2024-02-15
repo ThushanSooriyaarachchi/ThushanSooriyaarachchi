@@ -68,7 +68,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="PLACEHOLDER_URL" alt="sqlite" width="40" height="40"/>
+        <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" alt="sqlite" width="40" height="40"/>
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
